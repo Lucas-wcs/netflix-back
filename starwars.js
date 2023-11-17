@@ -136,17 +136,19 @@ export const starwars = [
     "species": [],
     "vehicles": [
       {
-        "name": "Imperial Speeder Bike",
-        "model": "74-Z speeder bike",
-        "manufacturer": "Aratech Repulsor Company",
-        "cost_in_credits": "8000",
-        "length": "3",
-        "max_atmosphering_speed": "360",
-        "crew": "1",
-        "passengers": "1",
-        "cargo_capacity": "4",
-        "consumables": "1 day",
-        "vehicle_class": "speeder"
+        "name": "Naboo star skiff",
+        "model": "J-type star skiff",
+        "manufacturer": "Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated",
+        "cost_in_credits": "unknown",
+        "length": "29.2",
+        "max_atmosphering_speed": "1050",
+        "crew": "3",
+        "passengers": "3",
+        "cargo_capacity": "unknown",
+        "consumables": "unknown",
+        "hyperdrive_rating": "0.5",
+        "MGLT": "unknown",
+        "vehicle_class": "yacht"
       }
     ]
   },
