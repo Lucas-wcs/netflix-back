@@ -1321,7 +1321,7 @@ export const starwars = [
     "eye_color": "black",
     "birth_year": "22BBY",
     "gender": "male",
-    "homeworld": "/planets/49/",
+    "homeworld": "Dorin",
     "films": [
       "The Phantom Menace",
       "Attack of the Clones",
